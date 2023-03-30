@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  BT
+
+  Created by Nitin on 3/29/23.
+  
+*/
+
+"Account Details" = "Account Details";
+"First Name*" = "First Name*";
+"Enter first name" = "Enter first name";
+"Last Name*" = "Last Name*";
+"Enter last name" = "Enter last name";
+"Date of Birth*" = "Date of Birth*";
+"Minimum age allowed is 18 years old" = "Minimum age allowed is 18 years old";
+"Popup Settings" = "Popup Settings";
+"Daily Tips" = "Daily Tips";
+"Wellness daily tips pop-ups" = "Wellness daily tips pop-ups";
+"Sync BetterTogether with" = "Sync BetterTogether with";
+"Apple Health" = "Apple Health";
+"Steps, Floors, Glasses" = "Steps, Floors, Glasses";
+"Fitbit" = "Fitbit";
+"Sync Info" = "The sync is activated every time that you enter the app. It is recommended to enter at the end of the day to record the full day achievements";
+"Save" = "Save";
+"Height*" = "Height*";
+"Height Info" = "You will be asked to log your weight as soon as your challenge is started";
+"Gender*" = "Gender*";
+"Hide my weight from other members" = "Hide my weight from other members";
+"kg/cm" = "kg/cm";
+"lbs/inch" = "lbs/inch";
+"Select" = "Select";
+"Male" = "Male";
+"Female" = "Female";
+"Prefer not to say" = "Prefer not to say";

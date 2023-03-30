@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  BT
+
+  Created by Nitin on 3/29/23.
+  
+*/
+
+"Account Details" = "تفاصيل الحساب";
+"First Name*" = "الاسم الأول*";
+"Enter first name" = "أدخل الاسم الأول";
+"Last Name*" = "اسم العائلة*";
+"Enter last name" = "إدخال اسم آخر";
+"Date of Birth*" = "تاريخ الميلاد*";
+"Minimum age allowed is 18 years old" = "الحد الأدنى للسن المسموح به هو 18 عامًا";
+"Popup Settings" = "إعدادات منبثقة";
+"Daily Tips" = "نصائح يومية";
+"Wellness daily tips pop-ups" = "النوافذ المنبثقة نصائح يومية للعافية";
+"Sync BetterTogether with" = "مزامنة أفضل مع ملفات";
+"Apple Health" = "صحة التفاح";
+"Steps, Floors, Glasses" = "خطوات ، أرضيات ، نظارات";
+"Fitbit" = "فيتبيت";
+"Sync Info" = "يتم تنشيط المزامنة في كل مرة تدخل فيها إلى التطبيق. يوصى بالدخول في نهاية اليوم لتسجيل إنجازات اليوم الكامل";
+"Save" = "يحفظ";
+"Height*" = "ارتفاع*";
+"Height Info" = "سيُطلب منك تسجيل وزنك بمجرد بدء التحدي";
+"Gender*" = "جنس*";
+"Hide my weight from other members" = "إخفاء وزني عن الأعضاء الآخرين";
+"kg/cm" = "كجم / سم";
+"lbs/inch" = "رطل / بوصة";
+"Select" = "يختار";
+"Male" = "ذكر";
+"Female" = "أنثى";
+"Prefer not to say" = "افضل عدم القول";
